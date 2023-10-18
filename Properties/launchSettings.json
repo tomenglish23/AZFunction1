@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "AZFunc1": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7127"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 32307,
+      "useSSL": false
+    }
+  }
+}
